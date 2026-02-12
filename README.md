@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-orange.svg)](https://modelcontextprotocol.io)
 
-**Dungeon Organizer** is a robust Model Context Protocol (MCP) server designed to transform cluttered file systems into organized "Dungeons". It combines powerful file-handling logic with a gamified dashboard, allowing users and AI agents to manage data through a metaphor of "Rooms", "Loot", and "Monsters".
+![Dungeon Organizer Dashboard](dashboard_preview.png)
 
 ---
 
